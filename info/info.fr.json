@@ -1,0 +1,10 @@
+{
+   "description" : "Active ou déactive un déclencheur",
+   "name" : "Déclencheurs",
+   "tags" : {
+      "scenario" : {},
+      "scénario" : {},
+      "triggers" : {}
+   },
+   "type" : "remote"
+}

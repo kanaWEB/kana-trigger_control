@@ -1,0 +1,7 @@
+#!/bin/sh
+trigger_id=$1
+state=$2
+DIR="$( cd "$( dirname "$0" )" && pwd )"
+cd $DIR
+
+php-cgi ../../../../../../actions.php type="triggers" id=$trigger_id state=$state

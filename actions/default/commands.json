@@ -1,0 +1,15 @@
+{
+   "default" : {
+      "args" : {
+         "trigger_id" : {
+            "type" : "Actions"
+         },
+         "state" : {
+            "modifier" : "Binary",
+            "type" : "Post"
+         }
+      },
+      "command" : "trigger_control",
+      "usage" : "trigger_control trigger_id state"
+   }
+}

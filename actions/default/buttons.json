@@ -1,0 +1,24 @@
+{
+   "buttons" : [
+      {
+         "color" : "success",
+         "command" : "default",
+         "effect" : {
+            "type" : "state_toggle(this,'on')"
+         },
+         "icon" : "glyphicon-off",
+         "name" : "Enable",
+         "state" : 1
+      },
+      {
+         "color" : "danger",
+         "command" : "default",
+         "effect" : {
+            "type" : "state_toggle(this,'off')"
+         },
+         "icon" : "glyphicon-off",
+         "name" : "Disable",
+         "state" : 0
+      }
+   ]
+}

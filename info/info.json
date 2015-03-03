@@ -1,0 +1,10 @@
+{
+   "description" : "Enable or disable a trigger",
+   "name" : "Triggers Control",
+   "tags" : {
+      "remote" : {},
+      "scenario" : {},
+      "trigger" : {}
+   },
+   "type" : "remote"
+}

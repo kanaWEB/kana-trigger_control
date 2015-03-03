@@ -1,0 +1,4 @@
+{
+   "html" : "default",
+   "onload" : "triggers_state"
+}

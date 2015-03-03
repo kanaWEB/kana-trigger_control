@@ -1,0 +1,1 @@
+This plugins will enable or disable a trigger, you can use it to turn on/off a scenario
