@@ -2,7 +2,7 @@
    "buttons" : [
       {
          "color" : "success",
-         "command" : "default",
+         "command" : "on",
          "effect" : {
             "type" : "state_toggle(this,'on')"
          },
@@ -12,7 +12,7 @@
       },
       {
          "color" : "danger",
-         "command" : "default",
+         "command" : "off",
          "effect" : {
             "type" : "state_toggle(this,'off')"
          },
